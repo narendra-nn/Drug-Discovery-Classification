@@ -1,1 +1,1 @@
-# Drug-Discovery-Classification
+# Drug Discovery Classification
