@@ -5,4 +5,4 @@ Central acetylcholinesterase (AChE) inhibitors also known as cholinesterase inhi
 Collected Dataset from ChEMBL Database and used PadelPy a python module for calculating PubChem Descriptors 
 ## Demo
 Here is the short demo of the application\
-(https://github.com/narendra-nn/Drug-Discovery-Classification/blob/main/Drug%20Discovery/Demo.gif)
+![](https://github.com/narendra-nn/Drug-Discovery-Classification/blob/main/Drug%20Discovery/Demo.gif)
